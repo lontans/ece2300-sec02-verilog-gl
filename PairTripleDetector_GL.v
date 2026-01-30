@@ -23,7 +23,7 @@ module PairTripleDetector_GL
   or(out,y,x);
 
   //''' ACTIVITY '''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-  // Implement pair/triple detector using explicit gate-level modeling
+  // Implement pair/triple detector using explicit gate-level modeling. Edited to push
   //''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
   `ECE2300_UNUSED( in0 );
